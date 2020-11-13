@@ -1,0 +1,13 @@
+.body-class {
+    background-color: cornsilk;
+    color: blueviolet;
+  }
+
+  .image-class {
+    width: 100px;
+    height: 100px;
+  }
+
+  .margin-botton-class{
+    margin-bottom: 20px;
+  }
